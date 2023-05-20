@@ -1,0 +1,460 @@
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll.config
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.pdb
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe.config
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.rsp
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe.config
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.rsp
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.AppContext.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Console.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Http.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.ValueTuple.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe.config
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.rsp
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Utilities.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Build.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Build.Framework.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Collections.Immutable.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Text.Json.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Memory.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Text.Encodings.Web.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Numerics.Vectors.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\System.Buffers.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.xml
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.xml
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\cs\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\de\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\en\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\es\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\fr\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\it\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\ja\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\ko\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pl\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\ru\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\tr\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\bin\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csprojAssemblyReference.cache
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CopyComplete
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.dll
+C:\Users\20211tii0283\source\repos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.pdb
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll.config
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.pdb
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe.config
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.rsp
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe.config
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.rsp
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.AppContext.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Console.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Http.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.ValueTuple.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe.config
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.rsp
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.xml
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.xml
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.AssemblyReference.cache
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CopyComplete
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.dll
+C:\Users\Venan\OneDrive\Documentos\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.pdb
+G:\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csprojAssemblyReference.cache
+G:\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CoreCompileInputs.cache
+G:\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.dll
+G:\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.pdb
+G:\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll.config
+G:\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.pdb
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe.config
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.rsp
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe.config
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.rsp
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Managed.Core.targets
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.AppContext.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Collections.Immutable.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Console.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Globalization.Calendars.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Http.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Sockets.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Reflection.Metadata.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.ValueTuple.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XmlDocument.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe.config
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.rsp
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe
+G:\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe.config
+G:\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Components.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Schema.Sql.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Utilities.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Build.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Build.Framework.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Collections.Immutable.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Text.Json.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Memory.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Threading.Tasks.Dataflow.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Text.Encodings.Web.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Numerics.Vectors.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Threading.Tasks.Extensions.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\System.Buffers.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.xml
+G:\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.xml
+G:\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\cs\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\de\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\en\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\es\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\fr\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\it\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\ja\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\ko\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\pl\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\pt-BR\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\ru\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\tr\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\zh-Hans\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\bin\zh-Hant\Microsoft.Build.resources.dll
+G:\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CopyComplete
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll.config
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.pdb
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe.config
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.rsp
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe.config
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.rsp
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.AppContext.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Console.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Http.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.ValueTuple.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe.config
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.rsp
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.xml
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.xml
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.AssemblyReference.cache
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CopyComplete
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.dll
+C:\Users\Venan\OneDrive\Área de Trabalho\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.pdb
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll.config
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.pdb
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.xml
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CopyComplete
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.dll
+C:\Users\PC\Desktop\f5\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.pdb
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll.config
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\AnimeTrabalho.pdb
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.exe.config
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csc.rsp
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.exe.config
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\csi.rsp
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.AppContext.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Console.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Http.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.ValueTuple.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.exe.config
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\vbc.rsp
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.Data.Tools.Components.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.xml
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\EntityFramework.SqlServer.xml
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.AssemblyReference.cache
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.csproj.CopyComplete
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.dll
+C:\Users\Venan\Downloads\AnimeTrabalho(1)\AnimeTrabalho\AnimeTrabalho\obj\Debug\AnimeTrabalho.pdb

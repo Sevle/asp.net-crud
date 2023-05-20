@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Db_AnimeModelStoreContainer" CdmEntityContainer="Db_AnimeEntities">
+    <EntitySetMapping Name="Animes">
+      <EntityTypeMapping TypeName="Db_AnimeModel.Anime">
+        <MappingFragment StoreEntitySet="Anime">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="nota" ColumnName="nota" />
+          <ScalarProperty Name="sinopse" ColumnName="sinopse" />
+          <ScalarProperty Name="ano" ColumnName="ano" />
+          <ScalarProperty Name="qnt_ep" ColumnName="qnt_ep" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
